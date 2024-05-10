@@ -13,7 +13,7 @@
     "gray-matter": "^4.0.3",
     "is-svg": "^4.4.0",
     "lodash": "^4.17.21",
-    "next": "13.5.4",
+    "next": "14.1.1",
     "node-fetch": "^3.2.10",
     "normalize-url": "^4.5.1",
     "object-path": "^0.11.8",
