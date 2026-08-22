@@ -11,7 +11,7 @@
     "date-fns": "^2.21.1",
     "glob-parent": "^5.1.2",
     "gray-matter": "^4.0.3",
-    "is-svg": "^4.4.0",
+    "is-svg": "^6.1.0",
     "lodash": "^4.17.21",
     "next": "15.5.23",
     "node-fetch": "^3.2.10",
